@@ -1,0 +1,20 @@
+body
+{
+    background-color:navy;
+    color: aqua;
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+.things,#s1,#s2
+{
+    color: aquamarine;
+}
+#camera,#output
+{
+    border:2px dashed white;
+    width: 350px;
+    height: 300px;
+}
